@@ -1,1 +1,5 @@
-echo "Hello, Git!" > hello.txt1
+<<<<<<< HEAD
+echo "Hello from the main branch!" > hello.txt1
+=======
+echo "Hello, Git and GitHub!" > hello.txt1
+>>>>>>> feature/update-greeting
